@@ -1,2 +1,3 @@
-# Codificación
-Ejercicios
+Codificación
+============
+## Néstor David Bohorquez Galeano
