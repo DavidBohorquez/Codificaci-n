@@ -1,4 +1,4 @@
-Ejercicios de codificación
+Ejercicios de Codificación
 ============
 Nombre | Código
 --|--
