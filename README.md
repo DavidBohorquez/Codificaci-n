@@ -1,2 +1,2 @@
-# Codificaci-n
+# Codificación
 Ejercicios
