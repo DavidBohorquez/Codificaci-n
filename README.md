@@ -2,4 +2,7 @@ Ejercicios de codificación
 ============
 Nombre | Código
 --|--
-_Néstor David Bohorquez Galeano_ | _20172020083_
+__Néstor David Bohorquez Galeano_ | _20172020083__
+
+Ejercicios Simples
+------------------
