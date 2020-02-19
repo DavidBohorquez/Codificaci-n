@@ -20,3 +20,6 @@ Ejercicios con Condicionales
 
 Ejercicios con Ciclos
 ---
+1. Escribir un programa que visualice en pantalla los números pares entre 1 y 25. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/ecc1.py))
+
+2. Escribir un programa que sume los números comprendidos entre un rango suministrado por el usuario. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/ecc2.py))
