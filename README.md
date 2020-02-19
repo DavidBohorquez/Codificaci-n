@@ -13,4 +13,4 @@ Ejercicios Simples
    
 Ejercicios con Condicionales
 ----
-1. Escribir un programa que detecte si se han introducido en orden creciente tres números introducidos por el usuario. ([ejercicio 3](https://github.com/DavidBohorquez/Codificacion/blob/master/es2.py))
+1. Escribir un programa que detecte si se han introducido en orden creciente tres números introducidos por el usuario. ([ejercicio 3](https://github.com/DavidBohorquez/Codificacion/blob/master/ec1.py))
