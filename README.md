@@ -30,3 +30,8 @@ Ejercicios con Colecciones
 
 2. Escribir un programa que sume los valores que hay por encima de la diagonal principal de una matriz de 4 por 4. Los valores se deben asignar aleatoriamente. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/ecol2.py))
 
+Ejercicios de Caracteres
+---
+1. Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena original y la transformada deben almacenarse de forma independiente. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/ecar1.py))
+
+2. Escribir un programa que cuente las mayúsculas de una cadena de caracteres. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/ecar2.py))
