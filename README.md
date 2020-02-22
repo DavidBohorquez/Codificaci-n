@@ -41,3 +41,8 @@ Funciones y procedimientos
 1. Escribir un programa que calcule el factorial de un numero leído desde el teclado usando funciones. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/ef1.py))
 
 2. Escribir un programa, que con funciones, verifique si un carácter introducido es un número o no. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/ef2.py))
+
+Recursividad
+---
+1. Escriba un programa que usando recursividad devuelva la cantidad de dígitos que tiene un número entero. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/er1.py))
+2. Escribir un programa que mediante funciones recursivas calcule el termino “x” de la serie de fibonacci. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/er2.py))
