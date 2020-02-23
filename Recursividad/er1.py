@@ -4,4 +4,4 @@ def dig(num):
     else:
         return 1 + dig(num//10)
 
-print(dig(int(input('Ingrese un número: '))))
+print("El número de dígitos del número es:", dig(int(input('Ingrese un número: '))))
