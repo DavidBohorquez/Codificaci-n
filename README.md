@@ -32,7 +32,7 @@ Ejercicios con Colecciones
 
 Ejercicios de caracteres
 ---
-1. Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena original y la transformada deben almacenarse de forma independiente. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/Cadena%20de%20caracteres/ecar2.py))
+1. Escribir un programa que elimine los blancos de una cadena de caracteres. La cadena original y la transformada deben almacenarse de forma independiente. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/Cadena%20de%20caracteres/ecar1.py))
 
 2. Escribir un programa que cuente las mayúsculas de una cadena de caracteres. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/Cadena%20de%20caracteres/ecar2.py))
 
