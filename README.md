@@ -51,5 +51,5 @@ Modulos
 ---
 1. Crear un módulo de funciones aritméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/Módulos/operations.py))
 
-2. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que se deben implementar son suma, resta, multiplicación y división. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/Módulos/er2.py))
+2. Crear un módulo que maneje funciones para operar en sistema binario, las operaciones que se deben implementar son suma, resta, multiplicación y división. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/Módulos/bin_operations.py))
 
