@@ -57,7 +57,7 @@ Archivos
 ---
 1. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/Archivos/ascii.py))
 
-2. Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/Archivos/read.py))
+2. Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/Archivos/read.py))
 
 Varios
 ---
