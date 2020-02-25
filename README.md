@@ -61,7 +61,7 @@ Archivos
 
 Varios
 ---
-1. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/Archivos/ascii.py))
+1. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leído al inicio. ([ejercicio 1](https://github.com/DavidBohorquez/Codificacion/blob/master/Varios/ev.py))
 
-2. Modifique el ejercicio anterior para que el conteo se haga hacia atrás desde el tiempo leído hasta cero. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/Archivos/ascii.py))
+2. Modifique el ejercicio anterior para que el conteo se haga hacia atrás desde el tiempo leído hasta cero. ([ejercicio 2](https://github.com/DavidBohorquez/Codificacion/blob/master/Varios/ev.py))
 
